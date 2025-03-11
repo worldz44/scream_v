@@ -1,5 +1,5 @@
 import openai
-openai.api_key = '<your-token>'
+openai.api_key = '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'
 
 response_obj='''[
   {
